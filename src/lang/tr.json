@@ -1,0 +1,111 @@
+{
+  "welcome": {
+    "hello": "Merhaba",
+    "clientParacik": "201.50 Paracık'ın var.",
+    "paracik": "1 Paracık = 1₺ değerinde kullanabilirsin.",
+    "goParacik": "Paracıklarıma Git."
+  },
+  "offers": {
+    "offer": "Teklifi İncele"
+  },
+  "search": {
+    "search": "Marka veya kampanya ara"
+  },
+  "section": {
+    "section": "Sevebileceğin Kategoriler"
+  },
+  "wallet": {
+    "paracik": "Paracık Bakiye",
+    "balance": "TL Bakiye",
+    "cards": "Kartlarım"
+  },
+  "router": {
+    "home": "AnaSayfa",
+    "categories": "Kategoriler",
+    "qr": "QR Kodum",
+    "wallet": "Cüzdanım",
+    "history": "İşlem Geçmişi",
+    "account": "Hesabım",
+    "headerTitle": "Hopi QR Kodum "
+  },
+  "auth": {
+    "title": "Hopi'n seni e-mailinden tanır!",
+    "subtitle": "Hopi üyeliğin için kullanmak istediğin",
+    "subtitle1": "adı, email adresini ve parolanı",
+    "subtitle2": "aşağıdaki alana yazmalısın.",
+    "login": "Giriş Yap",
+    "signup": "Üye Ol"
+  },
+  "login": {
+    "forget": "Şifremi Unuttum",
+    "login": "GİRİŞ",
+    "alert1": "Lütfen E-mail ve Şifre Bilgilerini Giriniz.",
+    "alert2": "Lütfen e-mailinizi doğrulayın.",
+    "alert3": "E-mail ya da şifreniz hatalı!"
+  },
+  "signup": {
+    "alert1": "Lütfen E-mail ve Şifre Bilgilerini Giriniz.",
+    "alert2": "Lütfen Açık Rıza Metni'ni kabul ediniz.",
+    "alert3": "Doğrulama e-maili gönderildi. Lütfen e-mail adresinizi kontrol edin ve hesabınızı doğrulayın.",
+    "alert4": "Geçersiz e-mail adresi",
+    "alert5": "Şifre en az 6 karakterli olmalı",
+    "alert6": "E-mail kullanımda",
+    "metin1": "Açık Rıza Metni'ni okudum",
+    "metin2": " ve kabul ediyorum.",
+    "metin3": "ÜYE OL"
+  },
+  "cards": {
+    "metin1": "Kredi / Banka Kartlarım",
+    "metin2": "Masterpass'e kartlarını kaydet, alışverişini Hopi mobil ödeme ile kolayca yap.",
+    "metin3": "Masterpass Hesabını İlişkilendir.",
+    "metin4": "Ulaşım Kartlarım",
+    "metin5": "İstanbulkart'ını kaydederek kartlarına Paracık ile yükleme yapabilirsin.",
+    "metin6": "İstanbulkart Ekle"
+  },
+  "balance": {
+    "metin1": "TOPLAM PARACIK",
+    "metin2": "HEDİYE PARACIK",
+    "metin3": "AKARYAKIT PARACIK",
+    "metin4": "Hopi ile anlaşmalı tüm markalarda minimum 1,50 TL değerinde harcayabilirsin.",
+    "metin5": "PARACIK GÖNDER"
+  },
+  "tlBalance": {
+    "metin1": "Hopipay kart içine kolayca yükleyerek istediğin her yerde harcama yapabildigin ücretsiz bir sanal karttır. Bu kartınla;",
+    "metin2": "Hopi ile anlaşmalı markalarda paranı kat kat harcayabilirsin.",
+    "metin3": "Arkadaşlarına anında para gönderebilirsin",
+    "metin4": "Tüm e-ticaret sitelerinde kolayca alişveriş yapabilirsin.",
+    "metin5": "HOPİPAY KARTINI AKTİVE ET"
+  },
+  "account": {
+    "metin1": "Bildirimlerim",
+    "metin2": "Kazandıran Oyunlar",
+    "metin3": "Listelerim",
+    "metin4": "Promosyon Kodu",
+    "metin5": "Arkadaşını Davet Et",
+    "metin6": "Müsteri Hizmetleri",
+    "metin7": "Hopi Anket",
+    "metin8": "Çıkış Yap"
+  },
+  "qr": {
+    "metin1": "60 saniye",
+    "metin2": "içinde QR kodun yenilenecek!",
+    "metin3": "QR kodu",
+    "metin4": "kasada okutarak",
+    "metin5": " veya internet",
+    "metin6": "alışverişlerinde",
+    "metin7": "altındaki kodu yazarak",
+    "metin8": "tekliflerden faydalanabilirsin.",
+    "metin9": "QR OKUT"
+  },
+  "welcomeScreen": {
+    "metin1": "Hoş Geldin",
+    "metin2": "Hopi'nle ne yapmak istersin ?"
+  },
+  "categoriesRouter": {
+    "name1": "Teklifler",
+    "name2": "Markalar"
+  },
+  "offer": {
+    "metin1": "Tüm Teklifleri Gör"
+  }
+}

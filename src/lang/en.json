@@ -1,0 +1,111 @@
+{
+  "welcome": {
+    "hello": "Hello",
+    "clientParacik": "You have 201.50 Paracık.",
+    "paracik": "1 Paracık = 1₺, can be used as currency.",
+    "goParacik": "Go to My Paracık."
+  },
+  "offers": {
+    "offer": "View Offer"
+  },
+  "search": {
+    "search": "Search Brand or Campaign"
+  },
+  "section": {
+    "section": "Categories You Might Like"
+  },
+  "wallet": {
+    "paracik": "Paracık Balance",
+    "balance": "TL Balance",
+    "cards": "My Cards"
+  },
+  "router": {
+    "home": "Home",
+    "categories": "Categories",
+    "qr": "My QR Code",
+    "wallet": "My Wallet",
+    "history": "Transaction History",
+    "account": "My Account",
+    "headerTitle": "My Hopi QR Code "
+  },
+  "auth": {
+    "title": "Hopi knows you from your e-mail!",
+    "subtitle": "You should write the name, email address, and password you want to use for Hopi membership",
+    "subtitle1": "in the field below.",
+    "subtitle2": "",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "login": {
+    "forget": "Forgot My Password",
+    "login": "LOGIN",
+    "alert1": "Please enter your email and password information.",
+    "alert2": "Please verify your email.",
+    "alert3": "Incorrect email or password!"
+  },
+  "signup": {
+    "alert1": "Please enter your email and password information.",
+    "alert2": "Please accept the Consent Text.",
+    "alert3": "Verification e-mail has been sent. Please check your email and verify your account.",
+    "alert4": "Invalid email address",
+    "alert5": "Password must be at least 6 characters",
+    "alert6": "Email is already in use",
+    "metin1": "I have read and accept the Consent Text.",
+    "metin2": "",
+    "metin3": "SIGN UP"
+  },
+  "cards": {
+    "metin1": "My Credit/Bank Cards",
+    "metin2": "Save your cards to Masterpass and shop easily with Hopi mobile payment.",
+    "metin3": "Link to Masterpass Account.",
+    "metin4": "My Transportation Cards",
+    "metin5": "You can add your Istanbulkart and load money to it with Paracık.",
+    "metin6": "Add Istanbulkart"
+  },
+  "balance": {
+    "metin1": "TOTAL PARACIK",
+    "metin2": "GIFT PARACIK",
+    "metin3": "FUEL PARACIK",
+    "metin4": "You can spend at least 1.50 TL in all brands that have an agreement with Hopi.",
+    "metin5": "SEND PARACIK"
+  },
+  "tlBalance": {
+    "metin1": "Hopipay is a free virtual card that you can easily load and spend anywhere. With this card, you can;",
+    "metin2": "spend your money multiple times at Hopi affiliated brands.",
+    "metin3": "send money instantly to your friends",
+    "metin4": "shop easily on all e-commerce sites.",
+    "metin5": "ACTIVATE HOPİPAY CARD"
+  },
+  "account": {
+    "metin1": "My Notifications",
+    "metin2": "My Winning Games",
+    "metin3": "My Lists",
+    "metin4": "Promotion Code",
+    "metin5": "Invite a Friend",
+    "metin6": "Customer Service",
+    "metin7": "Hopi Survey",
+    "metin8": "LOG OUT"
+  },
+  "qr": {
+    "metin1": "Your QR code will be refreshed",
+    "metin2": "in 60 seconds!",
+    "metin3": "Scan the QR code at checkout",
+    "metin4": "or enter the code",
+    "metin5": "below online to enjoy",
+    "metin6": "exclusive offers.",
+    "metin7": "SCAN QR CODE",
+    "metin8": "ENTER CODE",
+    "metin9": "SCAN QR CODE"
+  },
+  "welcomeScreen": {
+    "metin1": "Welcome",
+    "metin2": "What would you like to do with Hopi?"
+  },
+  "categoriesRouter": {
+    "name1": "Offers",
+    "name2": "Brands"
+  },
+  "offer": {
+    "metin1": "View All Offers"
+  }
+}
